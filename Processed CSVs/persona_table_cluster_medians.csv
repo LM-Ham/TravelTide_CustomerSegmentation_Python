@@ -1,0 +1,5 @@
+cluster_k4_a,cluster_size,cluster_pct,top_perk,top_perk_pct,sessions_count,median_session_duration_sec,median_page_clicks,pct_cancellation_sessions,flight_trips_count,discount_flight_proportion,average_flight_discount,bargain_index,seats_sum,checked_bags_sum,hotel_trips_count,median_hotel_nights,median_hotel_rate,total_hotel_cost_est_usd,perk_rationale
+0,513,8.55,exclusive_discounts,49.9,8.0,89.0,12.0,0.0,2.0,0.5,0.18,0.01,2.0,1.0,2.0,2.5,160.0,1110.0,hohe discount- und bargain-signale im vergleich zu anderen clustern
+1,2752,45.88,one_night_free_hotel_with_flight,56.5,8.0,72.5,10.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,2.5,129.0,658.0,value-signal im hotelkontext sowie deal-orientierung im vergleich zu anderen clustern
+2,560,9.34,one_night_free_hotel_with_flight,33.9,8.0,131.25,17.25,12.5,3.0,0.5,0.0,0.0,3.0,2.0,2.0,3.0,146.0,1594.0,value-signal im hotelkontext sowie deal-orientierung im vergleich zu anderen clustern
+3,2173,36.23,one_night_free_hotel_with_flight,73.8,8.0,129.0,17.5,0.0,4.0,0.0,0.0,0.0,4.0,2.0,4.0,2.5,154.0,2113.0,value-signal im hotelkontext sowie deal-orientierung im vergleich zu anderen clustern
